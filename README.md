@@ -4,4 +4,4 @@ PatchIT constitutes a MATLAB tool suitable for the systematic and automatized ex
 
 A full description and examples of patchIT can be found in the article below: 
 
-A. L. Kesidis, V. Krassanakis, L-M. Misthos and N. Merlemis, "[patchIT: a multipurpose patch creation tool for image processing applications](https://www.mdpi.com/2414-4088/6/12/111/pdf)", Multimodal Technologies and Interaction, vol. 6, no. 12, p. 111, 2022.
+A. L. Kesidis, V. Krassanakis, L-M. Misthos and N. Merlemis, "[patchIT: a multipurpose patch creation tool for image processing applications](https://www.mdpi.com/2414-4088/6/12/111)", Multimodal Technologies and Interaction, vol. 6, no. 12, p. 111, 2022.
